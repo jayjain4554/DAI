@@ -12,7 +12,8 @@ This project focuses on analyzing soybean yield by examining agricultural data. 
 - Group the data into relevant columns for better insights.
 - Analyze the key factors contributing to soybean yield variations.
 - Draw conclusions based on the analysis.
-
+## DataSet
+https://www.kaggle.com/datasets/wisam1985/advanced-soybean-agricultural-dataset-2025
 ## Workflow
 
 ### Data Cleaning
